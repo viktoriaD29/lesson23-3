@@ -16,6 +16,7 @@
 }
 .menu__item {
   padding: 8px;
+  height: 3em;
 }
 .menu__item:hover {
   background-color: #9acd32;
